@@ -1,0 +1,14 @@
+2020-06-27 10:19:24.603 [main] DEBUG com.liuurick.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, priority, create_time, last_edit_time, enable_status, advice) values (?,?,?,?, ?,?,?,?,?, ?,?, ?,?)
+2020-06-27 10:19:24.648 [main] DEBUG com.liuurick.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 1(Integer), 1(Long), 喜茶(String), null, null, test(String), null, null, null, null, 1(Integer), test(String)
+2020-06-27 10:19:24.655 [main] DEBUG com.liuurick.o2o.dao.ShopDao.insertShop - <==    Updates: 1
+2020-06-27 16:23:54.534 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update shop SET shop_name=?, phone=?, enable_status=? advice=? where shop_id=?
+2020-06-27 16:23:54.572 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 喜茶(String), test(String), 1(Integer), test(String), null
+2020-06-27 16:26:46.262 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update shop SET shop_name=?, phone=?, enable_status=? advice=? where shop_id=?
+2020-06-27 16:26:46.315 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 1111喜茶(String), 13125315316(String), 1(Integer), 312412(String), 1(Long)
+2020-06-27 16:28:56.381 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update shop SET shop_name=?, phone=?, enable_status=? advice=? where shop_id=?
+2020-06-27 16:28:56.413 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 1111喜茶(String), 13125315316(String), 1(Integer), 312412(String), 1(Long)
+2020-06-27 16:30:03.758 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update shop SET shop_name=?, phone=?, advice=? where shop_id=?
+2020-06-27 16:30:03.788 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 1111喜茶(String), 13125315316(String), 312412(String), 1(Long)
+2020-06-27 16:31:46.586 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, phone=?, advice=? where shop_id=?
+2020-06-27 16:31:46.623 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 1111喜茶(String), 13125315316(String), 312412(String), 1(Long)
+2020-06-27 16:31:46.632 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - <==    Updates: 1
