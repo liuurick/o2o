@@ -12,16 +12,16 @@ public class PathUtil {
         String basePath = "";
         if (os.toLowerCase().startsWith("win")) {
             //C:\Users\admin\Desktop\work\image
-            basePath = "C:/Users/admin/Desktop/work/image";
+            basePath = "C:/Users/admin/Desktop/work/image/";
         } else {
-            basePath = "/work/image";
+            basePath = "/work/image/";
         }
         basePath = basePath.replace("/", seperator);
         return basePath;
     }
 
     public static String getShopImagePath(long shopId) {
-        String imagePath = "/upload/images/item/shop/" + shopId + "/";
+        String imagePath = "upload/images/item/shop/" + shopId + "/";
         return imagePath.replace("/", seperator);
     }
 

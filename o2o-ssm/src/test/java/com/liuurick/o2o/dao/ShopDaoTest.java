@@ -8,6 +8,8 @@ import com.liuurick.o2o.entity.ShopCategory;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.Date;
+
 import static org.junit.Assert.assertEquals;
 
 /**
@@ -36,7 +38,8 @@ public class ShopDaoTest extends BaseTest {
         shop.setEnableStatus(1);
         shop.setPhone("test");
         shop.setShopName("喜茶");
-
+        shop.setCreateTime(new Date());
+        shop.setLastEditTime(new Date());
         int effectedNum = shopDao.insertShop(shop);
         assertEquals(1, effectedNum);
     }
@@ -49,6 +52,7 @@ public class ShopDaoTest extends BaseTest {
         shop.setPhone("13125315316");
         shop.setAdvice("312412");
         shop.setShopName("1111喜茶");
+        shop.setLastEditTime(new Date());
 
         int effectedNum = shopDao.updateShop(shop);
         assertEquals(1, effectedNum);
