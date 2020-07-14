@@ -51,9 +51,21 @@ public class ShopServiceTest extends BaseTest {
         shop.setAdvice("审核中");
         //C:\Users\admin\Desktop\work\imgs
         File shopImg = new File("C:/Users/admin/Desktop/work/imgs/wenhuacollege.jpg");
-        ShopExecution se = shopService.addShop(shop, shopImg);
+        //ShopExecution se = shopService.addShop(shop, shopImg);
 
-        assertEquals(ShopStateEnum.CHECK.getState(),se.getState());
+        //assertEquals(ShopStateEnum.CHECK.getState(),se.getState());
     }
+
+    @Test
+    public void testGetshopbyid(){
+        Shop shop = shopService.getByShopId(1);
+        System.out.println(shop);
+    }
+
+    @Test
+    public void testModifyShop(){
+
+    }
+
 
 }
