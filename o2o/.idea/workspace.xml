@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="o2o:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbb5d669-1b6f-4cf3-af5c-afd87d12dafd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\maven\respository" />
+        <option name="mavenHome" value="E:/Java/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1npW76EWUHNWbSRaK4iNDCoO2HR" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2826923" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.liuurick.o2o.service.impl" />
+      <recent name="com.liuurick.o2o.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\java\com\liuurick\o2o\dao\split" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\webapp\resources\js\superadmin" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\webapp\WEB-INF\html" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\resources\sql" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liuurick.o2o.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\java\com\liuurick\o2o\service\impl" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\resources" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\webapp\WEB-INF\html" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\resources\mapper" />
+      <recent name="C:\Users\admin\Desktop\o2o\o2o\src\main\java\com\liuurick\o2o\cache" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DESUtil">
+    <configuration name="DESUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuurick.o2o.utils.DESUtil" />
+      <module name="o2o" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuurick.o2o.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuurick.o2o.utils.ImageUtil" />
+      <module name="o2o" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuurick.o2o.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaDaoTest.deleteArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="o2o" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuurick.o2o.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuurick.o2o.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.liuurick.o2o.dao.AreaDaoTest" />
+      <option name="METHOD_NAME" value="deleteArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServiceImplTest.addShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="o2o" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuurick.o2o.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuurick.o2o.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.liuurick.o2o.service.impl.ShopServiceImplTest" />
+      <option name="METHOD_NAME" value="addShop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServiceImplTest.modifyShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="o2o" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuurick.o2o.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuurick.o2o.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.liuurick.o2o.service.impl.ShopServiceImplTest" />
+      <option name="METHOD_NAME" value="modifyShop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.59" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="o2o:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/o2o" />
+          </settings>
+        </artifact>
+        <file path="D:/upload">
+          <settings>
+            <option name="CONTEXT_PATH" value="/upload" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_o2o" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="43596" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="o2o:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_o2o" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="43596" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ImageUtil" />
+      <item itemvalue="Application.DESUtil" />
+      <item itemvalue="JUnit.AreaDaoTest.deleteArea" />
+      <item itemvalue="JUnit.ShopServiceImplTest.addShop" />
+      <item itemvalue="JUnit.ShopServiceImplTest.modifyShop" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DESUtil" />
+        <item itemvalue="JUnit.ShopServiceImplTest.modifyShop" />
+        <item itemvalue="JUnit.ShopServiceImplTest.addShop" />
+        <item itemvalue="Application.ImageUtil" />
+        <item itemvalue="JUnit.AreaDaoTest.deleteArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb5d669-1b6f-4cf3-af5c-afd87d12dafd" name="Default Changelist" comment="" />
+      <created>1612087341890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612087341890</updated>
+      <workItem from="1612087346634" duration="9812000" />
+      <workItem from="1612165777544" duration="11477000" />
+      <workItem from="1612227968421" duration="2309000" />
+      <workItem from="1612249156581" duration="1722000" />
+      <workItem from="1612747385627" duration="18148000" />
+      <workItem from="1612773532409" duration="2508000" />
+      <workItem from="1612781167650" duration="5017000" />
+      <workItem from="1612787016393" duration="5313000" />
+      <workItem from="1612835171875" duration="4159000" />
+      <workItem from="1612920623718" duration="3156000" />
+      <workItem from="1612948693569" duration="627000" />
+      <workItem from="1612949354158" duration="680000" />
+      <workItem from="1613198955915" duration="4612000" />
+      <workItem from="1613203698115" duration="4681000" />
+      <workItem from="1613210634380" duration="4311000" />
+      <workItem from="1613266743544" duration="7858000" />
+      <workItem from="1613283802146" duration="3731000" />
+      <workItem from="1613351996248" duration="1848000" />
+      <workItem from="1613358377695" duration="3094000" />
+      <workItem from="1613876236787" duration="165000" />
+      <workItem from="1613992866560" duration="4451000" />
+      <workItem from="1614060675510" duration="2307000" />
+      <workItem from="1614134011761" duration="643000" />
+      <workItem from="1614650637632" duration="15000" />
+      <workItem from="1614653230239" duration="3591000" />
+      <workItem from="1614744870652" duration="3724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1612088239284">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1612088239284" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613353852297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1613353852297" />
+    <state x="398" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612835211042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1612835211042" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1613207896744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1613207896744" />
+    <state x="282" y="264" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613285244530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="264" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1613285244530" />
+    <state x="419" y="208" width="443" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612784046841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="208" width="443" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1612784046841" />
+    <state x="425" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613285253052">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1613285253052" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613285915656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613285915656" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1614134054381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614134054381" />
+    <state width="845" height="226" key="GridCell.Tab.0.bottom" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.0.center" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.0.left" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.0.right" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.1.bottom" timestamp="1613308693775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.1.center" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.1.left" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.1.right" timestamp="1613308693774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1613308693774" />
+    <state width="845" height="226" key="GridCell.Tab.2.bottom" timestamp="1613308693775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613308693775" />
+    <state width="845" height="226" key="GridCell.Tab.2.center" timestamp="1613308693775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1613308693775" />
+    <state width="845" height="226" key="GridCell.Tab.2.left" timestamp="1613308693775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1613308693775" />
+    <state width="845" height="226" key="GridCell.Tab.2.right" timestamp="1613308693775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="226" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1613308693775" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1613269730536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1613269730536" />
+    <state x="412" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612773584087">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1612773584087" />
+    <state x="28" y="1" key="new project wizard" timestamp="1613286912255">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1613286912255" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1614071001837">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1614071001837" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614757414941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614757414941" />
+  </component>
+</project>
