@@ -1,6 +1,0 @@
-2021-02-09 10:57:34.529 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, enable_status=?, area_id=?, shop_category_id=? where shop_id=?
-2021-02-09 10:57:34.618 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 更新测试(String), 0(Integer), 4(Integer), 10(Long), null
-2021-02-09 10:57:34.621 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - <==    Updates: 0
-2021-02-09 11:00:23.488 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, enable_status=? where shop_id=?
-2021-02-09 11:00:23.531 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - ==> Parameters: 更新测试(String), 2(Integer), 40(Long)
-2021-02-09 11:00:23.541 [main] DEBUG com.liuurick.o2o.dao.ShopDao.updateShop - <==    Updates: 1
